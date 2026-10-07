@@ -14,9 +14,11 @@ The project contains three main dashboards:
 
 ### 1. Revenue Dashboard
 Provides an overview of revenue-related performance and helps analyze financial trends across the dataset.
+![Revenue Analysis Dashboard](revenue_dashboard.png)
 
 ### 2. Sales Dashboard
 Provides insights into overall sales performance, including:
+![Sales Analysis Dashboard](sales_dashboard.png)
 
 - Total Sales: ₹24,17,654
 - Total Orders: 5,250
@@ -27,6 +29,7 @@ Provides insights into overall sales performance, including:
 
 ### 3. Product Performance Dashboard
 Analyzes product-level performance to identify:
+![Product Performance Dashboard](product_performance_dashboard.png)
 
 - Top Performing Products
 - Product-wise Sales
