@@ -77,6 +77,6 @@ The Excel workbook contains the cleaned data, Pivot Tables, KPI calculations, an
 
 ## 👤 Author
 
-**Jayur Yadav**
+**Jaiyur Yadav**
 
 Data Analytics Project
